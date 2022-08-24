@@ -10,7 +10,7 @@ Here is a tutorial on how to gain access and play on the server. For information
 
 - Join our Discord server by clicking on the Discord footer icon
 
-- Connect to the server with your Minecraft client. You should receive a linking code, which we're going to use next
+- Connect to the server with your Minecraft client. For Bedrock Edition, the server port is 25645 You should receive a linking code, which we're going to use next
 
 - Send a direct message to the Aegis Bot from Discord containing just that code. 
 
