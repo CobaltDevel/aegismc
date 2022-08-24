@@ -1,1 +1,3 @@
 site_name: AegisMC
+theme:
+  name: material
