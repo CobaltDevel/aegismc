@@ -1,6 +1,6 @@
 # Home
 
-[:fontawesome-brands-discord:](https://discord.gg/rssB8hPbKN)
+[:fontawesome-brands-discord: Discord](https://discord.gg/rssB8hPbKN)
 
 Welcome to Aegis, a community server among the millions!  
 Below is where you will start - just jump out towards freedom!
@@ -16,6 +16,7 @@ Next to it is the "House of Shenanigans", a three-storey house with an undergrou
 ![House of Shenanigans](/assets/images/HouseofShenanigans.png)
 
 If you travel far enough chances are you'll find this little gem!
+
 ![Poluma Beach Cafe](/assets/images/PolumaCafe.png)
 
 And there's always more!  
