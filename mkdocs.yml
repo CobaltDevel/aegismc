@@ -1,3 +1,7 @@
 site_name: AegisMC
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+  logo: assets/icon.png
