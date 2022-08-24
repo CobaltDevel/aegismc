@@ -1,7 +1,7 @@
 ---
 icon: fontawesome/solid/scroll
 ---
-#Rules
+# Rules
 Like many servers, we have rules in place to keep things in order. Still, screw you Mojang for enforcing your “community standards” on our private servers - we were allowed to govern our own servers for 10 years and that’s what we want to continue
 
 Bans from the Discord server will revoke your access to the Minecraft server.
