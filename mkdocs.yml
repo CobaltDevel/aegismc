@@ -17,3 +17,9 @@ extra:
       link: https://twitter.com/aegismctwt
     - icon: fontawesome/brands/discord 
       link: https://discord.gg/rssB8hPbKN
+    - icon: fontawesome/brands/github
+      link: https://github.com/CobaltDevel/aegismc
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
