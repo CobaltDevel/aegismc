@@ -22,8 +22,8 @@ The sharing of illegal content such as CP will result in an unappealable permane
 
 ## In-Game Activity
 The above rules apply to the Minecraft game server, and Discord bans are reflected onto it. There’s just a few things we need to address about in-game activity:
-Building contraptions such as lag machines with the intent to strain or crash the server or disrupt gameplay for others is not allowed
-“Griefing” - deliberately destroying others’ buildings or stealing items without consent and with the intent to harm other players is also prohibited.
+- Building contraptions such as [lag machines](https://2b2t.miraheze.org/wiki/Lag_machine) with the intent to strain or crash the server or disrupt gameplay for others is not allowed
+- “Griefing” - deliberately destroying others’ buildings or stealing items without consent and with the intent to harm other players is also prohibited.
 
 
 ## Punishments
