@@ -3,7 +3,7 @@ icon: fontawesome/solid/list
 ---
 # How to Play
 
-Here is a tutorial on how to gain access and play on the server. For information and requirements needed to join, see [this page](/info/server)
+Here is a tutorial on how to gain access and play on the server. For information and requirements needed to join, see [this page](/server)
 
 !!! warning
     If you intend to play on both Java AND Bedrock Editions, please follow the instructions [here](https://link.geysermc.org/method/online) to link your platform accounts, otherwise Discord link conflicts may happen
@@ -27,7 +27,7 @@ You'll need a mobile device with you for this
 
 - Download [this](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) app for Android or [this](https://apps.apple.com/us/app/bedrocktogether/id1534593376) app for iOS devices.
 
-- Input the server address and port as detailed [here](/info/server) into the boxes and click `Run` (iOS) or `Start Server` (Android)
+- Input the server address and port as detailed [here](/server) into the boxes and click `Run` (iOS) or `Start Server` (Android)
 
 - Launch Minecraft on your console and go to the 'Friends' tab on the menu
 
@@ -76,6 +76,6 @@ Connecting to the server is a bit different if you've used the BedrockConnect me
 
 - Click on the Connect to a Server option at the top of the list
 
-- Enter the server address and port as detailed [here](/info/server)
+- Enter the server address and port as detailed [here](/server)
 
 - Check the 'Add to server list' button to add it to your list, then click 'Submit' to join
