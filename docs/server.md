@@ -17,4 +17,4 @@ Powered by the [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) perform
 
 The server address is `aegis.cobaltonline.net` and the port for Bedrock Edition access is 25645
 
-Proxy server powered with :heart: by [EnviroMC](https://enviromc.host) and [Velocity](https://velocitypowered.com)
+Proxy server powered with :heart: by [EnviroMC](https://client.enviromc.host/?affid=131) and [Velocity](https://velocitypowered.com). Use coupon code 1.19 to get 20% off your new server for a limited time!
