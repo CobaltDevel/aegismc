@@ -6,14 +6,9 @@ icon: fontawesome/solid/list
 Here is a tutorial on how to gain access and play on the server. For information and requirements needed to join, see [this page](/server)
 
 !!! warning
-    If you intend to play on both Java AND Bedrock Editions, please follow the instructions [here](https://link.geysermc.org/method/online) to link your platform accounts, otherwise Discord link conflicts may happen
-
-- Join our Discord server by clicking on the Discord footer icon
+    If you intend to play on both Java AND Bedrock Editions, please follow the instructions [here](https://link.geysermc.org/method/online) to link your platform accounts for cross-progression.
 
 - Connect to the server with your Minecraft client. For Bedrock Edition, the server port is 25645
- You should receive a linking code, which we're going to use next
-
-- Send a direct message to the Aegis Bot from Discord containing just that code. 
 
 - You should be ready to play! Connect to the server again and you'll have access!
 
@@ -33,10 +28,6 @@ You'll need a mobile device with you for this
 - Launch Minecraft on your console and go to the 'Friends' tab on the menu
 
 - You should see the the server MOTD listed under the LAN Games section - go for it!
-
-- If you haven't already, link your Discord account as detailed above
-
-- Done!
 
 ### BedrockConnect (DNS Workaround)
 
