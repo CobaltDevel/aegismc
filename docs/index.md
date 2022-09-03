@@ -7,6 +7,6 @@ We're a relatively new SMP server starting out from the ground up, feel free to 
 Screenshots will be put out on the site as we progress.
 
 ![Mesa Valley](/assets/images/MesaValley.png)
-This is Mesa Valley, an embedded base base mostly carved out of a mountain
+This is Mesa Valley, an embedded base mostly carved out of a mountain
 
 Please check out the header links for important information, the server rules and how to play
