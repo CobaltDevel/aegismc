@@ -23,6 +23,8 @@ The above rules apply to the Minecraft game server, and Discord bans are reflect
 
 - Building contraptions such as [lag machines](https://2b2t.miraheze.org/wiki/Lag_machine) with the intent to strain or crash the server or disrupt gameplay for others is not allowed
 - Griefing - deliberately destroying others’ buildings or stealing items without consent and with the intent to harm other players is also prohibited.
+- Player vs. Player (PvP) battles are strictly prohibited without both parties' consent
+- Item duplication glitches and other mass exploits are also strictly prohibited and will result in the appropriate punishment
 
 
 ## Punishments
