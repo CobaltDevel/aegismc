@@ -8,22 +8,14 @@ Like many servers, we have rules in place to keep things in order. Still, screw 
 Follow Discord’s [Terms of Service](https://dis.gd/tos) and [Community Guidelines](https://discord.com/guidelines)  
 Also be aware of Minecraft’s [EULA](https://www.minecraft.net/en-us/eula) - offline mode players are not allowed to log in due to security risks and potential abuse and pay-to-win material is prohibited.
 
-## Discussion and Etiquette
-Profanity is allowed in Minecraft and Discord chats, as long as no offensive/targeted slurs are used. This community is a safe space for everyone, including LGBTQ+, different races, religions and disabilities, etc. You are all important to us.
-
-When someone is uncomfortable with a discussion, your best bet is to shift the subject over to something lighter
-
 ## Content Policy
-This server does not allow the distribution of NSFW, NSFL or any similar content that may not be safe to view within the Discord and Minecraft game. Somewhat light sexual innuendos are fine, but anything beyond it or graphic aren’t allowed here
-
 The sharing of illegal content such as CP will result in an unappealable permanent ban, and in severe cases, you may be reported to Discord's Trust and Safety team
 
 ## In-Game Activity
 The above rules apply to the Minecraft game server, and Discord bans are reflected onto it. There’s just a few things we need to address about in-game activity:
 
 - Building contraptions such as [lag machines](https://2b2t.miraheze.org/wiki/Lag_machine) with the intent to strain or crash the server or disrupt gameplay for others is not allowed
-- Griefing - deliberately destroying others’ buildings or stealing items without consent and with the intent to harm other players is also prohibited.
-- Player vs. Player (PvP) battles are strictly prohibited without both parties' consent
+- Hack clients are also prohibited
 - Item duplication glitches and other mass exploits are also strictly prohibited and will result in the appropriate punishment
 
 
